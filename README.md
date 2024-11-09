@@ -13,7 +13,7 @@ Skills: C / C++ / Java / BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently learning Frontend Web Development on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning Java, C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/tamim-hasan-rafi](https://github.com/tamim-hasan-rafi)
   
