@@ -7,7 +7,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=tamim-hasan-rafi&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C / C++ / Java / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
